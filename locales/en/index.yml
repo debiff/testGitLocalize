@@ -1,3 +1,6 @@
 global:
   password: Password
   username: Username
+local:
+  foo: foo
+  bar: bar
